@@ -150,6 +150,7 @@ docker exec -it prestashop mv /var/www/html/admin /var/www/html/admin552vw8sb9uv
 ```
 Y ya estaria entramos a este enlace [http://localhost:8080/admin552vw8sb9uvj8ucjobz](http://localhost:8080/admin552vw8sb9uvj8ucjobz), nos llevara a la pagina de inicio de sesion. 
 Una vez iniciado sesion ya podremos administrar nuestra tienda de Prestashop.
+
 ![Tarea_6_SXE(4)](Tarea_6_SXE(4).PNG)
 
 
